@@ -1,4 +1,4 @@
-baseURL = "http://del-art.ca/"
+baseURL = "http://del-art.ca/darius/"
 languageCode = "en-us"
 title = "Darius Wieczorek"
 theme = "hugo-creative-portfolio-theme"
