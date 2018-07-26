@@ -1,6 +1,6 @@
 [submodule "www.del-art.ca/themes/osprey"]
 	path = www.del-art.ca/themes/osprey
 	url = https://github.com/tomanistor/osprey.git
-[submodule "www.del-art.ca/themes/portfolio"]
-	path = www.del-art.ca/themes/portfolio
+[submodule "www.del-art.ca/themes/hugo-creative-portfolio-theme"]
+	path = www.del-art.ca/themes/hugo-creative-portfolio-theme
 	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
