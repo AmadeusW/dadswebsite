@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/03_A_Publishing_RPiro_cover.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Publishing 4"
+title = "RPiro cover"
 weight = 0
 +++
 

@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/03_B_Publishing_UJ_Catalog_cover.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Publishing 2"
+title = "UJ Catatlog cover"
 weight = 0
 +++
 

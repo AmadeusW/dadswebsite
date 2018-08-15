@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/04_B_Graphic_Design_Web.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Design 2"
 weight = 0
