@@ -5,6 +5,8 @@ image = "img/portfolio/03_A_Publishing_RPiro_cover.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "RPiro cover"
 weight = 0
+description = "as an alternative to the first paragraph, we can specify a Description"
+cover = "img/portfolio/04_B_Graphic_Design_Web.jpg"
 +++
 
 Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
