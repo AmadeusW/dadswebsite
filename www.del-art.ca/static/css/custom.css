@@ -4,3 +4,12 @@ img + em {
     display: block;
     text-align: center;
 }
+
+.credit {
+    color: #aaaaaa;
+    font-size: 9px;
+}
+
+.credit a {
+    color: #aaaaaa;
+}
