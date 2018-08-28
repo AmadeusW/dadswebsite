@@ -3,29 +3,29 @@ showonlyimage = true
 draft = false
 image = "img/portfolio/02_A_Art_Digital_illustration.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Sample work"
+title = "Digital illustrations for Gestalt, psychology magazine"
 weight = 0
+description = "Those artworks were selected to illustrate articles in magazine printed in DEL Art printshop."
+cover = "img/portfolio/mp/Illustr_1.jpg"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![sample image](/img/portfolio/mp/Illustr_2.jpg)
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Two main motives are 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+1. Figuratve sketches exploring the spatial perception,
+2. Portrait sketches catching the essence in raw, singular lines.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![sample image](/img/portfolio/mp/Illustr_3.jpg)
 
-## Header Level 2
+Some of them were sketches or visuals prepared for stereo anaglyph compositions printed in serigraphy.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+## Stereoscopic serigraph print tests
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+My earliest versions of stereoscopic experiments were photographs taken for the left and the right eye, respectively, and after test on computer screen, printed in serigraph.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+![sample image](/img/portfolio/mp/Illustr_4.jpg)
