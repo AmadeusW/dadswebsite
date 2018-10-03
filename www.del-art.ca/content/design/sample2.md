@@ -1,31 +1,41 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/04_B_Graphic_Design_Web.jpg"
+image = "img/design/Agnus_Dei_logo.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Design 2"
+title = "Logo Design, Agnus Dei Choir"
 weight = 0
+description = "Establishing visual identity for the choir coming to the crucial career point when brand integrity is necessary and indispensable."
+cover = "img/design/AgnusDei_prints.jpg"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Logo concept design started from the idea of conductor's music desk, or the choir stage setup, taken in decorative or stylized manner.
 <!--more-->
+![sample image](/img/design/adc/logos_pre-1.jpg)
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+The work developed through the inclusion of a typo stylization that uses the shape and characterization of letters as the medium of expression conveying the basic strong message, in this case, aimed at highlighting the essence of choral singing 'con amore', from passion.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![sample image](/img/design/adc/logos_pre-2.jpg)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Finally, the selected version, strongly limited and focused on lettering, refers to the theme of the heart, but also to the music score notation. 
+Individual letters rise and fall as recorded on the staff.
+The shape of the letters maintains associations with the musical notations: bass clef and also Gregorian chant scripture.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![sample image](/img/design/adc/logos_pre-3.jpg)
 
-## Header Level 2
+1. For some branding usage, in some cases, the version emphasizing the centrally located heart was in use. 
+2. In cases where greater discipline and simpler form are more appropriate or required, secondary elements are omitted.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![sample image](/img/design/adc/logo_used-4.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> Another logo for a choir was done for the next ensemble led by the same conductor.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+## Cantabile Choir
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+In a way, this is a modernized version of the Agnus Dei choir logo. The individual features of typography, and musical references are maintained.
+
+![sample image](/img/design/adc/cantabile_logo_in_use-1.jpg)
+
+The logo seems simple, yet it maintains a strong character and is a recognizable accent in the choir's promotional materials.
+
+![sample image](/img/design/adc/cantabile_logo_in_use-2.jpg)
