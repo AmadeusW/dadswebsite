@@ -1,20 +1,16 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/publishing/Cover_entry.jpg"
+image = "img/portfolio/02_A_Art_Digital_illustration.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Polly of Bridgewater Farm"
-weight = 0
-description = "as an alternative to the first paragraph, we can specify a Description"
-cover = "img/portfolio/04_B_Graphic_Design_Web.jpg"
+title = "Art 2"
+weight = 2
 +++
 
 Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-
-![sample image](/img/portfolio/03_A_Publishing_RPiro_cover.jpg)
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
@@ -24,9 +20,6 @@ A small river named Duden flows by their place and supplies it with the necessar
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
 ## Header Level 2
-
-![sample image](/img/portfolio/03_A_Publishing_RPiro_cover.jpg)
-_caption_
 
 Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 
