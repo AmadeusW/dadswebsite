@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/design/RPM_ikons.jpg"
+image = "img/digital_images/digital_photo_restoration/Julian_photo_entry.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Cabbagetown Regent Part Museum website Icons"
+title = "Digital Photography Restoration"
 weight = 0
 description = "Projects executed for Cabbagetown Regent Park Community Museum were the opportunity to exercise publishing works in many media. One of the projects was renewing and updating the museum's website."
 +++

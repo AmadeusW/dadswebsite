@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/03_A_Publishing_RPiro_cover.jpg"
+image = "img/publishing/Cover_entry.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "RPiro cover"
+title = "Polly of Bridgewater Farm"
 weight = 0
 description = "as an alternative to the first paragraph, we can specify a Description"
 cover = "img/portfolio/04_B_Graphic_Design_Web.jpg"

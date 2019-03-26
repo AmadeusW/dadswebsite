@@ -50,6 +50,10 @@ googleAnalytics = ""
   name = "Graphic Design"
   url = "design/"
 
+    [[params.navlinks]]
+  name = "Digital"
+  url = "cgi/"
+
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
