@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/02_A_Art_Digital_illustration.jpg"
+image = "img/portfolio/elephant_run3.gif"
 date = "2016-11-05T18:25:22+05:30"
-title = "Digital illustration"
+title = "Animated models"
 weight = 0
 +++
 

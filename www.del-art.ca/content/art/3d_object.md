@@ -1,13 +1,13 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/02_A_Art_Digital_illustration.jpg"
+image = "img/portfolio/modeling_David.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Art 3"
-weight = 1
+title = "3D laser cut acrylic model"
+weight = 0
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Brief description of the digital illustration.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
