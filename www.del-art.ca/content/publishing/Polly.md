@@ -1,22 +1,22 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/art/painting_n.jpg"
+image = "img/publishing/Cover_entry.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Painting"
-weight = 2
-description = "I lean towards impressionist, post-impressionist, but generally, realistic art, though I am very inspired by the subjective, individualistic, and expressionistic approach."
-cover = "img/art/painting/Roze_740.jpg"
+title = "Polly of Bridgewater Farm"
+weight = 0
+description = "Publishing project including the design of the book's layout, selection of materials, preparation of illustrations, editorial makeup, author's supervision of the printing process, and also subsequently accompanying promotional activities."
+cover = "img/portfolio/04_B_Graphic_Design_Web.jpg"
 +++
 
-My painting is usually executed in oil or acrylic, and painting sketches in watercolor or temper (acrylic temper). As my biggest interest is in visual perception, I lean towards impressionist, post-impressionist, but generally, realistic art, though I am very inspired by the subjective, individualistic, and expressionistic approach.
+Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 <!--more-->
 
-![sample image](/img/art/painting/Portr_S_635.jpg)
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
-For experimental purposes, I am leaning towards minimalist and optical-art solutions that generally brings me towards computer graphic.
+![sample image](/img/portfolio/03_A_Publishing_RPiro_cover.jpg)
 
-![sample image](/img/art/painting/Portr_G_656.jpg)
+A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
@@ -24,6 +24,9 @@ For experimental purposes, I am leaning towards minimalist and optical-art solut
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
 ## Header Level 2
+
+![sample image](/img/portfolio/03_A_Publishing_RPiro_cover.jpg)
+_caption_
 
 Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 

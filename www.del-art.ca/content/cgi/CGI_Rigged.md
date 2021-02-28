@@ -1,12 +1,12 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/art/Art_Digital_illustration.jpg"
+image = "img/digital_images/Rigged_thmb.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Digital illustrations for Gestalt, psychology magazine"
+title = "3D Models Rigged for Animation"
 weight = 0
-description = "Those artworks were selected to illustrate articles in magazine printed in DEL Art printshop."
-cover = "img/portfolio/mp/Illustr_1.jpg"
+description = "Rigging is a way to set the frames, constraints, and controllers for the management and direction of animation of simple objects and complex bodies."
+cover = "img/digital_images/Rigged_thmb.jpg"
 +++
 
 Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.

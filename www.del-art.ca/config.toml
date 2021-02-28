@@ -1,6 +1,6 @@
 baseURL = "http://del-art.ca/"
 languageCode = "en-us"
-title = "Darius Wieczorek"
+title = "Darius Wieczorek    DEL-ART"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "../../delart" # needed for GitHub pages
 

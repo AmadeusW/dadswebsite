@@ -19,8 +19,6 @@ Also the 3D model for depth was created.
 
 > Depth is controlled by one z-depth map, what is creating bendings at edges of layers. but generally, the tested method works nicely.
 
-
 ![sample image](/img/portfolio/cantabile/Christ_Head.jpg)
 
-On the published materials, posters and flyers, and on prepared CD covers and lebels, the stereoscopic anaglyph images are used. 
-
+On the published materials, posters and flyers, and on prepared CD covers and lebels, the stereoscopic anaglyph images are used.

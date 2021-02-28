@@ -1,12 +1,11 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/design/ts/ts-entry.jpg"
+image = "img/design/Websites_th.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Promotional materials"
-weight = 5
-description = "Low-budget projects implemented for the needs of current events. Usually prepared on the basis of provided amateur-quality photographs and low-resolution references of sponsors' corporate materials."
-cover = "img/portfolio/astellas/rollup_4_face.jpg"
+title = "Website Design"
+weight = 0
+description = "Websites designed, maintained, administered, updated"
 +++
 
 Projects executed for Cabbagetown Regent Park Community Museum were the opportunity to exercise publishing works in many media. One of the projects was renewing and updating the museum's website.

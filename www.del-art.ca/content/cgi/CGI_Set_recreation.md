@@ -1,11 +1,11 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/art/Art_Digital_illustration.jpg"
+image = "img/digital_images/CGI_illustr.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Digital illustrations for Gestalt, psychology magazine"
+title = "3D Models, props set as a reference for a book illustrations"
 weight = 0
-description = "Those artworks were selected to illustrate articles in magazine printed in DEL Art printshop."
+description = "3D modeling used for reconstruction references to facilitate the rendering of illustrations for the book."
 cover = "img/portfolio/mp/Illustr_1.jpg"
 +++
 

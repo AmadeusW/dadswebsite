@@ -1,11 +1,11 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/design/ts/ts-entry.jpg"
+image = "img/design/zrodlo/zrodlo_folder.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Promotional materials"
-weight = 5
-description = "Low-budget projects implemented for the needs of current events. Usually prepared on the basis of provided amateur-quality photographs and low-resolution references of sponsors' corporate materials."
+title = "Zrodlo - Polish Folk Song and Dance Ensemble"
+weight = 0
+description = "Flyers, CD labels and covers, posters, tickets, memorabilia publications."
 cover = "img/portfolio/astellas/rollup_4_face.jpg"
 +++
 

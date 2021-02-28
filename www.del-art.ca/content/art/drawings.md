@@ -1,13 +1,15 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/art/drawings.jpg"
+image = "img/art/Drawings_thmb.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Art 3"
+title = "Drawings"
 weight = 1
+description = "Drawing is the analytical part of creative work, it is a record of the process of thoughts. The sketchiness of the drawing is not a dismissive feature. As the art is not a higher level of a craft..."
+cover = "img/art/drawings/06_04_01.jpg"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Drawing for me is the analytical part of creative work, it is a record of the process of thoughts. The sketchiness of the drawing is not a bad feature. As the art is not a higher level of a craft, the photographic feature of the image is not paramount to the drawing study.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.

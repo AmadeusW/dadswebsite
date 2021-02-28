@@ -1,11 +1,11 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/design/ts/ts-entry.jpg"
+image = "img/digital_images/digital_photo_restoration/Julian_photo_entry.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Promotional materials"
-weight = 5
-description = "Low-budget projects implemented for the needs of current events. Usually prepared on the basis of provided amateur-quality photographs and low-resolution references of sponsors' corporate materials."
+title = "Digital Photography Restoration"
+weight = 0
+description = "Archival photo restoration is enabled and facilitated by digital image manipulation. The process may be tedious, but actually, it is a one-of-a-kind opportunity to restore the destroyed images."
 cover = "img/portfolio/astellas/rollup_4_face.jpg"
 +++
 

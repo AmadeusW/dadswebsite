@@ -1,22 +1,18 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/art/painting_n.jpg"
+image = "img/portfolio/Publishing_cover.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Painting"
-weight = 2
-description = "I lean towards impressionist, post-impressionist, but generally, realistic art, though I am very inspired by the subjective, individualistic, and expressionistic approach."
-cover = "img/art/painting/Roze_740.jpg"
+title = "LexP cover"
+weight = 0
 +++
 
-My painting is usually executed in oil or acrylic, and painting sketches in watercolor or temper (acrylic temper). As my biggest interest is in visual perception, I lean towards impressionist, post-impressionist, but generally, realistic art, though I am very inspired by the subjective, individualistic, and expressionistic approach.
+Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 <!--more-->
 
-![sample image](/img/art/painting/Portr_S_635.jpg)
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
-For experimental purposes, I am leaning towards minimalist and optical-art solutions that generally brings me towards computer graphic.
-
-![sample image](/img/art/painting/Portr_G_656.jpg)
+A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.

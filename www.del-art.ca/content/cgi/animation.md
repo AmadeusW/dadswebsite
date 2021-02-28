@@ -5,6 +5,8 @@ image = "img/portfolio/elephant_run3.gif"
 date = "2016-11-05T18:25:22+05:30"
 title = "Animated models"
 weight = 0
+description = "Animation is one of basic source of sensations in spatial perception."
+cover = "img/digital_images/Rigged_thmb.jpg"
 +++
 
 Brief description of the digital illustration.

@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/portfolio/Window_Poster.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Flagship Gallery Marketing Collateral"
+title = "Flagship Gallery Marketing Collaterals"
 weight = 0
 description = "Those artworks bring more individual features and statements and have been used as input to the artists' collaborative gallery."
 cover = "img/portfolio/Place_of_Rest_SuperCrawl_09_2018.jpg"
@@ -18,9 +18,7 @@ Monthly revolved events create a demand for updates:
 2. social media: Instagram, Facebook, Twitter,
 3. "traditional", printed posters and flyers.
 
-
 ![sample image](/img/portfolio/flagship/Flagship-slider.jpg)
-
 
 Cooperation with the Flagship Gallery marketing team brings opportunities to commit artworks with the freedom of referenced meanings and associations. It is a kind of fun, games, waiting to decrypt the message.
 

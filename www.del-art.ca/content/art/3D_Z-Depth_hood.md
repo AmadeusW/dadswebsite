@@ -1,25 +1,26 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/art/painting_n.jpg"
+image = "img/art/Z-Depth_thmb.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Painting"
+title = "Z-Depth based Steroscopy"
 weight = 2
-description = "I lean towards impressionist, post-impressionist, but generally, realistic art, though I am very inspired by the subjective, individualistic, and expressionistic approach."
-cover = "img/art/painting/Roze_740.jpg"
+description = "3D image may be achieved by parallax displaced photography or rendering. Though in 3D editing much more efficient is the usage of the Z-Depth as a stereoscopic (or spatial) displacement reference."
+cover = "img/art/eye_sm.jpg"
 +++
 
-My painting is usually executed in oil or acrylic, and painting sketches in watercolor or temper (acrylic temper). As my biggest interest is in visual perception, I lean towards impressionist, post-impressionist, but generally, realistic art, though I am very inspired by the subjective, individualistic, and expressionistic approach.
+> I was quite surprised to learn 3D video editing methods by converting source footage using depth maps. But in fact, it became obvious that this method is effective and, above all, gives great control over the editing process as perfecting the visual storytelling.
 <!--more-->
 
-![sample image](/img/art/painting/Portr_S_635.jpg)
+Conversion requiers a depth map or actually depth maps, if for high quality imagery with various optical phenomena.
 
-For experimental purposes, I am leaning towards minimalist and optical-art solutions that generally brings me towards computer graphic.
+The depth maps can be done on a basis of Alphas cutting out the objects on a "depth layers" of the image.
+Brighter value for the front layers.
+Another way, more accurate, less guesswork, the method requires a 3D model, adjusted to the perspective of the image by using of the camera projection.
 
-![sample image](/img/art/painting/Portr_G_656.jpg)
+I am not working with depth maps created by phone's lenses.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+![sample image](/img/art/black_vignet_method.jpg)
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 

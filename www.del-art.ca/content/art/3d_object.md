@@ -1,13 +1,15 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/modeling_David.jpg"
+image = "img/portfolio/modeling-David.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "3D laser cut acrylic model"
 weight = 0
+description = "Work designed and executed for group exhibition on the Psalms of David."
+cover = "img/portfolio/mp/Illustr_1.jpg"
 +++
 
-Brief description of the digital illustration.
+The spatial structure, composed of acrylic plates engraved with outlines of hands playing the harp strings.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
