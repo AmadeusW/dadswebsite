@@ -6,24 +6,35 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Zrodlo - Polish Folk Song and Dance Ensemble"
 weight = 0
 description = "Flyers, CD labels and covers, posters, tickets, memorabilia publications."
-cover = "img/portfolio/astellas/rollup_4_face.jpg"
+cover = "img/design/zrodlo/vignette_banner.jpg"
 +++
 
-Projects executed for Cabbagetown Regent Park Community Museum were the opportunity to exercise publishing works in many media. One of the projects was renewing and updating the museum's website.
+The set of promotional materials including flyers, invitations, posters, banners, tickets for the anniversary Gala. Flyers were designed as double language in a double-sided layout. The designing work was followed by print supervision in the offset print shop where the large-volume print of flyers and invitations was performed.
+
 <!--more-->
-Icons for the website invoke the retro charm and character of the museum in victorian quarter of Toronto, collections of artifacts, some originating far from the 19th century.
-![sample image](/img/design/6_drawings.jpg)
-Hand drawings are basis for the icons refering to crystal balls, with sealed inside the symbols of the museums collections and activities.
-![sample image](/img/design/icons.jpg)
+Presented below is the compilation of the leaflet columns layout for the presented language consistency, as the genuine layout has the pages arranged in a different order.
 
-Visual features of the website were developed upon the logo of CRP Museum.
+![sample image](/img/design/zrodlo/flyer_ZPiT.jpg)
 
-![sample image](/img/design/banner_2.gif)
+Posters and tickets were executed in digital print, event tickets were sequentially numbered.
 
-Another approach to the style of the web design is executed in the icons for a small business website, mainly intended for the mobile browsers.
+![sample image](/img/design/zrodlo/ZPiT_Gala.jpg)
 
-## Modern clean style
+The part of preparatory work was the digitalization of the logo.
+A large part of the job was the selection of the images from the 10-year history of the ensemble.
 
-Minimalistic visual language helps users quickly find, navigate and get to know all the services and relevant informations provided by the company.
+### Image editing for the visual content
 
-![sample image](/img/design/Jones_Laundry.jpg)
+The customers usually can count on augmenting the quality of they photo assets. As it is shown below, the image used for the anniversary marketing campaign was edited to add missing details, to boost quality, expression, and color gain.
+
+![sample image](/img/design/zrodlo/animation_anniversary.gif)
+
+Similar work was performed to prepare assets for the ease of work on consecutive publicity and to prepare the substantial library of images to use in other projects.
+
+![sample image](/img/design/zrodlo/diploma_bottom_1.jpg)
+
+I made graphic designs of commemorative diplomas and decorative dedications in albums issued on the occasion of the anniversary.
+
+![sample image](/img/design/zrodlo/Diploma.jpg)
+
+Other projects for the ensemble were CD covers, business cards, and large format banners.

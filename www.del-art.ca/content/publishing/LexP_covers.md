@@ -1,31 +1,45 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/Publishing_cover.jpg"
+image = "img/publishing/Lex_covers/Publishing-cover.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "LexP cover"
+title = "Packaging, Covers, Labels"
 weight = 0
+description = "The series of the booklet' and CD-case' covers of a company introducing groundbreaking software for browsing electronic documents using natural language inquiry on the basis of PLS."
+cover = "img/publishing/Lex_covers/Lex_vignette.jpg"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+The cooperation started with the project of the graphic design and adaptation for the multimedia program of the startup company, developer of electronic publications. In the same time the legal publications became the main products of the company and in a short time a very diversified range of editions.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![sample image](/img/publishing/Lex_covers/intranet_4.jpg)
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+The issued publications had frequent, periodic updates and renewals, keeping pace with the state legislation, as well as the judicial proceeding interpretation of the law in current court ruling.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+![sample image](/img/publishing/Lex_covers/Prima_maxima_01_21.jpg)
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Prepared projects were usually printed using color solids, either on a CD or on the wrapping of boxes. In this case, in order to avoid the "moire phenomenon", I have used screening angles for CMYK process colors. In the presented labels, Cyan or Magenta is used for solid colors defined in the Pantone system.
 
-## Header Level 2
+![sample image](/img/publishing/Lex_covers/LP_Prima_pack-shot.jpg)
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+In the case of developing modifications of the graphic design for new publications, an important feature is to maintain the continuity and graphic consistency of new proposals, and new concepts selected by the Marketing department of the publisher.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![sample image](/img/publishing/Lex_covers/assorted.jpg)
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+### Solid colors on the cover design
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+The use of solid colors in graphic layout designs printed in raster techniques is associated with achieving the maximum color fidelity essential in the branding of the company and the product.
+
+![sample image](/img/publishing/Lex_covers/CD_Box_OSP.jpg)
+
+Even then, the author supervision is necessary, as the inks used in different printing techniques, supplied by different producers, used on different media, might produce slightly different color impressions.
+
+![sample image](/img/publishing/Lex_covers/Box_OSP.jpg)
+
+Besides the fidelity of branding colors, the applied solid colors give the best saturation, clarity, and density. The physical sensations associated with this kind of coloration are the most intense.
+
+![sample image](/img/publishing/Lex_covers/OSP_Eng.jpg)
+
+If you have bigger experimental freedom, when you trying to establish new color scheme, the pre-press for solid colors application gives you this opportunity to adjust your color with the greatest fineness.
+
+![sample image](/img/publishing/Lex_covers/cover_OSP.jpg)

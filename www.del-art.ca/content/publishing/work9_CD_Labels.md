@@ -6,22 +6,38 @@ date = "2016-11-05T18:25:22+05:30"
 title = "CD Covers, Labels, Packaging"
 weight = 0
 description = "Sets of layouts designed for electronic data media, covers, labels, booklets layout."
-cover = "img/portfolio/sca/RGB-to-CMYK.jpg"
+cover = "img/publishing/packaging/sfp_vignette.jpg"
 +++
 
-Recent work for a new customer. Created in close cooperation with the organization where many artists deliver opinions and share their experience. At the end of a day all is taken into consideration in the design process that brings nice outcome and mutual satisfaction.
-
+Projects for digital and music publishing to a large extent rely on maintaining a high level of branding consistency and color uniformity of publications made for one product in many media. The designed layout is printed in the offset, screenprinting, pad-printing, or in the digital printing technique. Very often the customer is willing to take advantage of the possibilities offered by the mirror surface of the CD. Often the packaging is made with the use of additional refining techniques. Custom creative folding and die-cutting can be used to create a unique product.
 <!--more-->
-Catalogue designed as a follow up to previous edition, preserving the format and the general composition of content.
-Basic technical challeng is to reproduce submitted artworks, that are RGB pictures, converted to CMYK using the proper color managment profile, finaly printed in offset. Beside the issue of exact reproduction of colors, there is much bigger problem of disparity betwin RGB and CMYK gamuts.
 
-1. Original RGB artwork submitted by artist.
-2. Photoshop Gamut Warning screenshot.
-3. Artwork converted to CMYK using profile rendering acceptable result (low JND) for most of pictures, but obviously not for this one.
+![sample image](/img/publishing/packaging/CD_label_1.jpg)
 
-![sample image](/img/portfolio/sca/selected_for_cover_with-Gamut.jpg)
+Long-term cooperation with publishers allows for a creative approach to commissioned works, as well as for experiments with the methods and techniques used in long-term publishing projects.
 
-Above presented is the sharpest example of color range that is non transferable from RGB gamut to CMYK color space. Yet this very picture was selected for the cover.
-The Gamut Warning is actually used in printshops as an excuse to print artwork as it comes out from submitted CMYK files, in this case, with the huge shift in blue hues. So to make this reproduction acceptable, some additional knowledge and experience is needed. And in order not to complain about the printing house, I will say that there are not many printshops where such experiments could be carried out.
+![sample image](/img/publishing/packaging/CD_label_2.jpg)
 
-> After all, the catalogue has been very positively received. When I compared the reproductions with the pictures presented at the exhibition, the differences resulted only from the incompatibility of the provided photos.
+The design work concerns covers, packaging, CD labels, splash screens. For the series of publications developed through seasons and years, the composition layout includes fixed elements or patterns, and elements that can be changed as variants or specific themes.
+
+![sample image](/img/publishing/packaging/CD_label_3.jpg)
+
+The animation below shows different parts or different layers of design and preparation for a print. There is a content part, that can be changed or updated quite often, and there is a visual background. It can be also divided into the content and technical part of a project. Usually, there is also division to vector and bitmap kind of graphic.
+
+![sample image](/img/publishing/packaging/bitmap-vector_label.gif)
+
+> Another feature of the work for publishing companies may be the cooperation with other visual artists, photographers, illustrators. That is the nature of extended projects.
+
+### Individual CD release
+
+CD publishing with audio or data or multimedia content is often the commemorative release or the addition to the book. In those cases, the design is driven by visuals supplied or used in the main event or previously published.
+
+![sample image](/img/publishing/packaging/Carmelites_CD_separation.jpg)
+
+Presented are the set of layouts for the CD imprint and the CD case front and back covers. CD was printed with 2 colors used only: gold and white. The motive used was genuine handwriting. For the cover, the well-known photograph was selected, with its grainy surface and sepia color. Taken together, the effect is very attractive and convincing.
+
+![sample image](/img/publishing/packaging/Carmelites_CD_cover.jpg)
+
+Below are the CD label and CD case cover for the multimedia publication accompanying the scientific book presenting the results of archaeological research.
+
+![sample image](/img/publishing/packaging/Jakuszowice.jpg)

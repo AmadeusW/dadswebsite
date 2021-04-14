@@ -6,28 +6,24 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Presentation's Backgrounds and Elements"
 weight = 0
 description = "Screen elements for presentations, and presentations developed for multiple corporate usage."
-cover = "img/portfolio/astellas/rollup_4_face.jpg"
+cover = "img/design/ppt/vignette_PPT.jpg"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+PowerPoint is a leading presentation tool for most companies. It is great when it is used like any other marketing tool according to branding developed for the business.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Work on presentations falls into two categories, whether it might be the preparation of the templates or a standalone rendition.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![sample image](/img/design/ppt/dark_BG_4.jpg)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+The customer commissioned the templates for general use with dark and bright backgrounds. The company deals with financial consulting. The red stripe in the logo is the meaningful motif, referring to the 'Red Seal' and top trade certifications and qualities.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![sample image](/img/design/ppt/light_4_BG.jpg)
 
-## Header Level 2
+### Standalone presentation
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+The presentation, which is commissioned as a multimedia show accompanying a display at a trade fair event, is a great opportunity to skillfully use a wide range of interactivity, animations, audio, and video materials.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![sample image](/img/design/ppt/BG_Polly.jpg)
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+PowerPoint provides the tools to convey content in an attractive and emphatic way. A professional approach, however, consists of using the available tools in such a way that the viewer absorbs the content of the message and not the typical bells and whistles of a standard template.

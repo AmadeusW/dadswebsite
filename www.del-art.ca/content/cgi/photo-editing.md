@@ -6,28 +6,23 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Photo-editing"
 weight = 1
 description = "Photomontage edited to render visual for large format printing."
-cover = "img/portfolio/astellas/rollup_4_face.jpg"
+cover = "img/digital_images/KZSO/vignette_large_format.jpg"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+The technical conditions and requirements have always been a feature that I research to be in control, to understand, and to challenge the limitations in undertaken projects, to exceed the boundaries of tools, technological solutions, and known standards.
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+The poster design accepted to be printed and placed on the facade of the headquarters of the ordering company was 9 times larger in pixels than the resolution of the camera I had (in that time) to make a photo session for use in a marketing campaign.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![sample image](/img/digital_images/KZSO/assembling.jpg)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+I wouldn't put together a nine-frame image of a climber, but taking four frames was feasible. The resolution of the edited image was not as high as recommended for this format printing, yet still, the lack of the nominal resolution was imperceptible.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Placing the prosthesis, suggesting the possibility of regaining physical fitness at the level of competitive sport, was an original idea at that time.
 
-## Header Level 2
+The slogan of the advertising campaign was: You can achieve a lot, we are here to help!
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![sample image](/img/digital_images/KZSO/climber_versions.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+The preliminary projects covered many types of physical activity that patients could undertake with advanced activity-specific prostheses for sports and recreation.

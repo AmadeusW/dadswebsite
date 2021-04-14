@@ -6,33 +6,49 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Polly of Bridgewater Farm"
 weight = 0
 description = "Publishing project including the design of the book's layout, selection of materials, preparation of illustrations, editorial makeup, author's supervision of the printing process, and also subsequently accompanying promotional activities."
-cover = "img/portfolio/04_B_Graphic_Design_Web.jpg"
+cover = "img/publishing/Polly/Wignet_inside_cover.jpg"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+The work on publishing this book was extremely fast and intense. At the same time, my wife and I worked on the general publishing concept, we designed the layout of the pages, the cover, selected the illustrations, and prepared them for printing. At the author's request, we conducted research on references to illustrations that were essential and necessary for the content of the book.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![sample image](/img/publishing/Polly/Polly_COVER_2014.jpg)
 
-![sample image](/img/portfolio/03_A_Publishing_RPiro_cover.jpg)
+The cover motive is the watercolor illustration depicting the departure and farewell forever to the native country and taking a life-changing journey.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![sample image](/img/publishing/Polly/Polly_COVER_ins.jpg)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+> The book is an imaginative reconstruction of factual events, highly supported and illustrated with actual artifacts, documents, and photographs presenting the described story and personas.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![sample image](/img/publishing/Polly/Map_drawings.jpg)
+_fragment of inside cover Map illustration_
 
-## Header Level 2
+### Sketches for vignettes and illustrations
 
-![sample image](/img/portfolio/03_A_Publishing_RPiro_cover.jpg)
-_caption_
+The book brings vivid descriptions of so many peculiar facts going into oblivion, just because of ever-changing life, and also for not being presented in mainstream history presentations.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![sample image](/img/publishing/Polly/sketches.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Illustrations were created upon referencing the portrayal in the book and to parallel imagery, literature, and documents.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+![sample image](/img/publishing/Polly/illustrations.jpg)
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+> The author shared with us many tales about assembling materials and reports for the book. She told us many additional anecdotes about places she would visit, about people helping her with their knowledge to collect the essence of the story.
+
+![sample image](/img/publishing/Polly/hunger_sketches.jpg)
+_Illustrations devoted to the tragic situation during the famine_
+
+Many facts can be discovered in documents, pamphlets, newspapers from Ireland plunged in tragic circumstances of the famine disaster. Not easy is to find the images depicting this time.
+
+![sample image](/img/publishing/Polly/vignet_coach.jpg)
+
+A stunning description of a journey on a stagecoach, in an unbelievable way, because no one now, (at least not me) would have imagined that at that time a large group of passengers traveled on the roof of the stagecoach, often in pouring rain.
+
+![sample image](/img/publishing/Polly/vignets.jpg)
+
+The motives above are compiled original XIX century illustrations used as vignettes for the front pages of the chapters.
+
+Below is the drawing made to show a famous tavern, known only from descriptions.
+
+![sample image](/img/publishing/Polly/Inn_wigwam.jpg)
+_Old Wigwam Inn_

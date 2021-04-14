@@ -3,25 +3,33 @@ showonlyimage = true
 draft = false
 image = "img/design/kamienica/front_Kamienica.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Residence under the Sun"
+title = "Residence 'Under the Sun'"
 weight = 0
 description = "Promotional brochure for a revival development project. Residencial city house, part of street frontage, in the prominent Old Krakow District."
-cover = "img/portfolio/sca/RGB-to-CMYK.jpg"
+cover = "img/publishing/tenement/tenement_vignette.jpg"
 +++
 
-Recent work for a new customer. Created in close cooperation with the organization where many artists deliver opinions and share their experience. At the end of a day all is taken into consideration in the design process that brings nice outcome and mutual satisfaction.
+The brochure created from scratch for the developer company starting a big renovation project in unique circumstances of the bylaws on the protection of architectural monuments. The dilapidated historic tenement house was completely reconstructed. It is safe to say only the front wall was in conditions allowing the preservation of the original structure.
 
 <!--more-->
-Catalogue designed as a follow up to previous edition, preserving the format and the general composition of content.
-Basic technical challeng is to reproduce submitted artworks, that are RGB pictures, converted to CMYK using the proper color managment profile, finaly printed in offset. Beside the issue of exact reproduction of colors, there is much bigger problem of disparity betwin RGB and CMYK gamuts.
+Nevertheless, the bylaws restrict the use of heavy machinery and every piece of the genuine building had to be preserved and indicated in the establishment finally handed over to the public.
 
-1. Original RGB artwork submitted by artist.
-2. Photoshop Gamut Warning screenshot.
-3. Artwork converted to CMYK using profile rendering acceptable result (low JND) for most of pictures, but obviously not for this one.
+![sample image](/img/publishing/tenement/brocher_break_through.jpg)
 
-![sample image](/img/portfolio/sca/selected_for_cover_with-Gamut.jpg)
+My job besides graphic design was also to create a way of selling the idea to future buyers. The narrative content writing, the idea of showing the project, was fully developed in my studio.
 
-Above presented is the sharpest example of color range that is non transferable from RGB gamut to CMYK color space. Yet this very picture was selected for the cover.
-The Gamut Warning is actually used in printshops as an excuse to print artwork as it comes out from submitted CMYK files, in this case, with the huge shift in blue hues. So to make this reproduction acceptable, some additional knowledge and experience is needed. And in order not to complain about the printing house, I will say that there are not many printshops where such experiments could be carried out.
+The message is clear, well divided, and nicely illustrated.
 
-> After all, the catalogue has been very positively received. When I compared the reproductions with the pictures presented at the exhibition, the differences resulted only from the incompatibility of the provided photos.
+![sample image](/img/publishing/tenement/floors_model.jpg)
+
+This was a time when 3D architectural models were out of my reach, but I have created the spatial rendering of the floor plans, boosting an understanding of the proposal.
+
+The brochure presents the comprehensive offer, split up into topics bringing all aspects of the proposed opportunities.
+
+![sample image](/img/publishing/tenement/flyer_spreads.jpg)
+
+The material is categorized and labeled on the right margin, providing all necessary information for the prospective investors. There is a basic outline, the highlight of prominent features, the detailed floor plans and state of art solutions included in the project, and the prices range and options. The brochure is illustrated with architectural visualizations, floor plans, and images of artifacts and Krakow architecture.
+
+![sample image](/img/publishing/tenement/city_views.jpg)
+
+> The Old District of Krakow is beautiful city in its shape preserved from the Middle Ages to Classicism. The tenement house reconstruction project fall in with the monument conservation rules, and as such it boasts about it in its promotion.

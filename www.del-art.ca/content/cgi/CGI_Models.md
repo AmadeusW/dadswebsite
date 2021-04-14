@@ -13,7 +13,7 @@ Illustrations for Gestalt Magazine are digital collages created from photos, sca
 
 <!--more-->
 
-![sample image](/img/portfolio/mp/Illustr_2.jpg)
+<div style="text-align: center;"><iframe src="https://player.vimeo.com/video/523336712?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="540" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="helmet.mp4"></iframe></div>
 
 Two main motives are
 

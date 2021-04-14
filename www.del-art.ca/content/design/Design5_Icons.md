@@ -6,28 +6,29 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Web Icons design"
 weight = 0
 description = "Web design elements, visual information and identity."
-cover = "img/portfolio/astellas/rollup_4_face.jpg"
+cover = "img/design/web_icons/vignette-compass.jpg"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Projects executed for Cabbagetown Regent Park Community Museum were the opportunity to exercise publishing works in many media. One of the projects was renewing and updating the museum's website.
 <!--more-->
+Icons for the website invoke the retro charm and character of the museum in victorian quarter of Toronto, collections of artifacts, some originating far from the 19th century.
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![sample image](/img/design/web_icons/icons_CRP.jpg)
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Hand drawings are the basis for the icons referring to crystal balls, with the symbols of the museum's collections and activities - sealed inside.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Visual features of the website were developed upon the logo of CRP Museum.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![sample image](/img/design/web_icons/icons_blue.jpg)
 
-## Header Level 2
+Common formats for web icons are PNG and SVG, transparency is a necessary feature of those elements.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![sample image](/img/design/web_icons/icons_silver.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Another approach to the style of the web icons design is dependent on the screen size, intended for the mobile browsers. The extremely small pixel size makes it necessary to test the legibility of the icon set and the adopted design method.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+![sample image](/img/design/web_icons/info_icons.jpg)
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Set of icons and logos designed for the mobile-friendly, responsive website.
+
+![sample image](/img/design/web_icons/Jones_Laundry.jpg)

@@ -6,28 +6,28 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Drawings: Visual Elements for Graphic Design"
 weight = 0 
 description = "Part of marketing identity for long term promotional campaigns was proposed and executed in drawing technics: pencil, pen, crayons."
-cover = "img/portfolio/mp/Illustr_1.jpg"
+cover = "img/art/drawings/Calendar_jogglers_vignette.jpg"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+The drawing is the basis for any genre of art or a visual form of expression. It is very advantageous to use sketches and drawings in the design phase as well as in the final product.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![sample image](/img/art/drawings/Calendar_jogglers.jpg)
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Figurines of jugglers designed as a calendar theme for an accounting company. They are to show the ease and mastery of using their craft. Jugglers' ball colors are the icons highlighting the regular deadlines of tax payments.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+![sample image](/img/art/drawings/dragon_post.jpg)
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+The Dragon is a legendary symbol of Krakow, so it was a kind of mascot for conferences organized yearly in this city by the Asthma and Alergy Prevention Society.
 
-## Header Level 2
+![sample image](/img/art/drawings/2-colour-flyer.jpg)
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+The dragon motive was adapted for each year with a new proper features, depending on the main topic of the conference organized. The publishing projects included:
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+1. Posters
+2. Flyers
+3. Invitations
+4. Booklets
+5. Presentation materials
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+> Both projects were executed for long time cooperating customers.

@@ -3,25 +3,23 @@ showonlyimage = true
 draft = false
 image = "img/publishing/Editorial-Publishing.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Pharmaceutical editorial materials."
+title = "Pharmaceutical editorial materials"
 weight = 0
 description = "Developed for any publisher indicated by the customer, for various media, in various formats. As a lead art director, I have tailored these ads to the specifications of the publishers currently selected by the marketing department of the pharmaceutical company."
-cover = "img/portfolio/sca/RGB-to-CMYK.jpg"
+cover = "img/publishing/Astellas/wignet-sBCC.jpg"
 +++
 
-Recent work for a new customer. Created in close cooperation with the organization where many artists deliver opinions and share their experience. At the end of a day all is taken into consideration in the design process that brings nice outcome and mutual satisfaction.
+The set of current ads and infomercials prepared for print by any publisher indicated by the customer, for various media, in various formats. As an art director, I have tailored these ads to the specifications of the publishers selected by the marketing department of the pharmaceutical companies.
 
 <!--more-->
-Catalogue designed as a follow up to previous edition, preserving the format and the general composition of content.
-Basic technical challeng is to reproduce submitted artworks, that are RGB pictures, converted to CMYK using the proper color managment profile, finaly printed in offset. Beside the issue of exact reproduction of colors, there is much bigger problem of disparity betwin RGB and CMYK gamuts.
+Each of the industry publishing houses provides its specifications, regarding options of sizes, file formats, and color profiles. Publishers have accepted digital files or diapositives. Matchprint or Chromalin proof was mandatory for any kind of delivered files.
 
-1. Original RGB artwork submitted by artist.
-2. Photoshop Gamut Warning screenshot.
-3. Artwork converted to CMYK using profile rendering acceptable result (low JND) for most of pictures, but obviously not for this one.
+![sample image](/img/publishing/Astellas/x2_editorial_2.jpg)
 
-![sample image](/img/portfolio/sca/selected_for_cover_with-Gamut.jpg)
+The main task is to adjust the layout of the ad's elements to the variable surfaces offered in a given journal. The proposed variants of the layouts must be next to perfect to minimize the process of the approval for printing. Sometimes a compilation of several products is required. Sometimes the bold, new propositions are needed when the event demands guaranteed noticeable exposure.
 
-Above presented is the sharpest example of color range that is non transferable from RGB gamut to CMYK color space. Yet this very picture was selected for the cover.
-The Gamut Warning is actually used in printshops as an excuse to print artwork as it comes out from submitted CMYK files, in this case, with the huge shift in blue hues. So to make this reproduction acceptable, some additional knowledge and experience is needed. And in order not to complain about the printing house, I will say that there are not many printshops where such experiments could be carried out.
+![sample image](/img/publishing/Astellas/x2_editorial_4.jpg)
 
-> After all, the catalogue has been very positively received. When I compared the reproductions with the pictures presented at the exhibition, the differences resulted only from the incompatibility of the provided photos.
+> In addition to the high standard of graphic compositions, flawless technical performance is a feature of these materials, which must bring a guaranteed outcome, regardless of the actual technical advancement of the publishing houses, with no supervising contact made except for the transfer of files and proofs.
+
+![sample image](/img/publishing/Astellas/locoid.jpg)

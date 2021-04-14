@@ -6,28 +6,35 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Logo design"
 weight = 0
 description = "Visual identity for new enterprises, new products, designed or upgraded marketing tools."
-cover = "img/portfolio/astellas/rollup_4_face.jpg"
+cover = "img/design/Gall-X/Vignett_animation.gif"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Gallery X logo is actually refining of the originally proposed design. The alternative developments are included in the final proposition as subtle polishes, rectified character, and hints and motions of additional meaning.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+The optional development and testing explored the ideas of accumulating multiple artistic currents and at the same time the disposition of expanding creativity into the outside environment.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![sample image](/img/design/Gall-X/Logo_ideas.jpg)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+As it was mentioned in discussions on the project development, and proposed to encompass a wealth of forms and means of expression that the art brings in an abundance of genres, media, textures, colors, some experiments were presented, but finally abandoned.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![sample image](/img/design/Gall-X/Logo_ideas_dev.jpg)
+Instead, I opted for minimalist measures to modify the original proposal in order to give it additional meanings.
 
-## Header Level 2
+The final accepted rendering brings dynamic shape gracefully balanced with subtle additions enriching the meaning in the manner open to interpretations.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![sample image](/img/design/Gall-X/Final_logo.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+The logo is prepared for light background and an inverse for a dark one. Those are also in a transparent version to use freedom of application, very useful with the pictorial background. There is one color design as well.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+### Logo usage
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+One of the first adoptions was to prepare the layout for the Corporate Seal.
+
+![sample image](/img/design/Gall-X/Corporate-Seal.jpg)
+
+Colorful versions of the logo used in the branding for the mobile gallery project.
+
+![sample image](/img/design/Gall-X/branding_trailer_textured.jpg)
+
+The logo is used on the website, on social media, on letterhead, on flyers, and designed pages for marketing campaigns.

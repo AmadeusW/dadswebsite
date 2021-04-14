@@ -14,22 +14,25 @@ My painting is usually executed in oil or acrylic, and painting sketches in wate
 
 ![sample image](/img/art/painting/Portr_S_635.jpg)
 
-For experimental purposes, I am leaning towards minimalist and optical-art solutions that generally brings me towards computer graphic.
+For experimental purposes, I am leaning towards minimalist and optical-art solutions that generally include digital tools or even depend on a computer graphic.
 
 ![sample image](/img/art/painting/Portr_G_656.jpg)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+<font color=#ad9a86>My understanding of the minimalistic approach is based on dominant of finding necessary minimal features for solving or recording an inspiring, observed, analyzed phenomena.</font>
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![sample image](/img/art/painting/x4_landscapes.jpg)
 
-## Header Level 2
+The works presented here are observational studies. They are not intended to capture "everything" within the assumed aesthetics, on the contrary, they are an attempt to capture only certain leading impressions, without or generally disregarding possible assignments to the existing "aesthetics".
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![sample image](/img/art/painting/x4_landscape_2.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+For me, realism is a capture of even a fraction of the phenomenon that inspires us to work on a painting.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+![sample image](/img/art/painting/Bukowina.jpg)
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Tempera sketch of a winter fsunny view of the nearby frosted trees from the window of a mountain chalet.
+The dominant accent was the rhythm of the trunks against the background of illuminated snow and the delicate pattern of gray lace of tiny twigs.
+
+![sample image](/img/art/painting/afternoon.jpg)
+
+> The picture is a record of impressions, thoughts and delight. Being a testimony to the struggle with virtually elusive beauty, it is also a trace of our rapture.

@@ -6,28 +6,38 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Social Media"
 weight = 0
 description = "Banners designed for various Social Media. Advertising materials developed for simultaneous use on many platforms in promoting current events."
-cover = "img/portfolio/astellas/rollup_4_face.jpg"
+cover = "img/design/s-media/Media_collaterals.jpg"
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+The ever-evolving social media domain is an important means of promotion and publicity.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Despite the free communication platform, a professional approach to the message is, as always, a recognizable feature of the message, a quality of the narrative that cannot be ignored.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![sample image](/img/design/s-media/formats.jpg)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+The specification for the optimal social media content may evolve, yet it is crucial to follow the guideline, as it is still the best safeguard to get the best quality performance of your creation.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![sample image](/img/design/s-media/formats_flagship.gif)
 
-## Header Level 2
+Video and motion-graphics are great ways to communicate the ideas. It takes more tools and preparation, some technicalities also may be a challenge. Depending on sources and the budget, it is great to use this very large segment of the social media domain.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![sample image](/img/design/s-media/emw_paintings.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+<div style="text-align: center;"><iframe src="https://player.vimeo.com/video/57939293?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="EMW Macondo one day Art Show"></iframe></div>
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Social Media is flowing with a tide and playing by rules. Time puts together a 4D grid framework.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+### The calendar and the timing
+
+Social Media are perfect for the events stretching across your timeline. Timing is a web of knots rigging your project, good timing is a structure, that is necessary to make it move, and without it, you are just dragged by the events created for you.
+
+![sample image](/img/design/s-media/Invitation_EMW_Exhibition.jpg)
+
+There are repetitions, announcements, and follow-ups. Not too early, and not too late. It can't be too much, too few, too dull. The correct branding, and dates, and places tuned to your audience and zeroed on your message.
+
+![sample image](/img/design/s-media/online_Show_announcements.jpg)
+
+So when we know how it goes, let's make it out to society.
+
+![sample image](/img/design/s-media/events.jpg)
