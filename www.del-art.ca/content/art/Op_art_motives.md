@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/art/Art_Op1_thmb.jpg"
+image = "img/art/Op_Art_thmb.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Optical Illusion"
 weight = 0

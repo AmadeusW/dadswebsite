@@ -14,19 +14,26 @@ The revamp of the logo for the CNC workshop. The former logo was selected from t
 <!--more-->
 The work on the logo design went in two directions. An attempt to make an already functioning element more attractive and a search for a new motif related to the three-dimensional reference system in the CNC machining technology.
 
-![sample image](/img/digital_images/3D_logo/Logo_classic_3.gif)
+![sample image](/img/digital_images/3D_logo/Logo_animation_3.gif)
 
-Two main motives are
+Above the pictorial mark of the logo is a ring with four planes twisted four times. There are three different textures tested in the renderings of this element.
 
-1. Figuratve sketches exploring the spatial perception,
-2. Portrait sketches catching the essence in raw, singular lines.
+Below the pictorial mark is a ring with faces twisted from three to six times, so a total of four iterations. There are four different textures tested in the renderings of this element.
 
-![sample image](/img/digital_images/3D_logo/Logo_modern_4.gif)
+![sample image](/img/digital_images/3D_logo/Logo_animation_4.gif)
 
-Some of them were sketches or visuals prepared for stereo anaglyph compositions printed in serigraphy.
+Another way of design is focused on development of new form for both, typography and pictorial mark.
 
-### Stereoscopic serigraph print tests
+![sample image](/img/digital_images/3D_logo/Element_1.jpg)
 
-My earliest versions of stereoscopic experiments were photographs taken for the left and the right eye, respectively, and after test on computer screen, printed in serigraph.
+The pictorial mark refers to the space of CAD software and CAM programs operating in XYZ coordinates.
 
-![sample image](/img/portfolio/mp/Illustr_4.jpg)
+![sample image](/img/digital_images/3D_logo/Element_2.jpg)
+
+Animated pictorial element is developed for digital media that alow the use of motion design.
+
+![sample image](/img/digital_images/3D_logo/cnc_anim_both.gif)
+
+The new proposition of the logo refers to the simplicity of forms and colors that prevails in the domain of electronic media.
+
+![sample image](/img/digital_images/3D_logo/logo_4.jpg)

@@ -51,9 +51,13 @@ googleAnalytics = ""
   name = "Graphic Design"
   url = "design/"
 
-    [[params.navlinks]]
+  [[params.navlinks]]
   name = "Digital"
   url = "cgi/"
+
+  [[params.navlinks]]
+  name = "About Me"
+  url = "about/"
 
   [[params.navlinks]]
   name = "Get in touch"

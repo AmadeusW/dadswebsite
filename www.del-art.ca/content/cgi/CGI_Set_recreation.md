@@ -9,30 +9,28 @@ description = "3D modeling used for reconstruction references to facilitate the 
 cover = "img/digital_images/visual_reference/vignette_ship.jpg"
 +++
 
-Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.
+The only reference delivered for the important illustration was a single scan of a photo printed in some newspaper showing the Jordan Harbour year 1828. This kind of source reference can only be obtained by querying the archives, there is no such material available on the internet.
 
 <!--more-->
+The reference was not readable enough to enable work on a detailed illustration of the port. I decided to make models of ships and props such as carts, barrels, boxes to facilitate the process of drafting the illustration.
 
 ![sample image](/img/digital_images/visual_reference/model_3_references.jpg)
 
-Two main motives are
-
-1. Figuratve sketches exploring the spatial perception,
-2. Portrait sketches catching the essence in raw, singular lines.
+The blueprint of XIX century three mast sail marchant ship was used to create 3D models applied in the set of the port created for the illustration.
 
 ![sample image](/img/digital_images/visual_reference/Harbour_render_2.jpg)
+_The basic set of models used on the scenery_
 
-Some of them were sketches or visuals prepared for stereo anaglyph compositions printed in serigraphy.
+### Camera projection method
 
-## Stereoscopic serigraph print tests
-
-My earliest versions of stereoscopic experiments were photographs taken for the left and the right eye, respectively, and after test on computer screen, printed in serigraph.
+The original picture of the port was fairly accurately reproduced when matching the objects in the scene. The camera projection is used to carefully line up the geometry to match the reference image.
 
 ![sample image](/img/digital_images/visual_reference/harbour_animation.gif)
 
-Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.
+Silhouettes of people, horse-drawn carriages, and carts were added to fill and liven up the setting.
 
 ![sample image](/img/digital_images/visual_reference/Harbour_render_3.jpg)
-Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.
+
+For compositional reasons, various variants of the camera shot have been tried. Below is the final effect of the illustration used in the book and on the cover.
 
 ![sample image](/img/digital_images/visual_reference/final_drawing.jpg)
