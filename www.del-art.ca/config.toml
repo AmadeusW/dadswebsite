@@ -1,6 +1,6 @@
-baseURL = "http://del-art.ca/"
+baseURL = "https://del-art.ca/"
 languageCode = "en-us"
-title = "Darius Wieczorek"
+title = "Darius Wieczorek    DEL-ART"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "../../delart" # needed for GitHub pages
 
@@ -14,7 +14,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "sea"
   description = "Darius Wieczorek"
-  copyright = "&copy;2018 Darius Wieczorek"
+  copyright = "&copy;2021 Darius Wieczorek"
   sidebarAbout = [
     "I am a creative illustrator and graphic designer with more than 10 years of experience.",
     "Originally from Krakow, currently based in Toronto."
@@ -50,6 +50,14 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Graphic Design"
   url = "design/"
+
+  [[params.navlinks]]
+  name = "Digital"
+  url = "cgi/"
+
+  [[params.navlinks]]
+  name = "About Me"
+  url = "about/"
 
   [[params.navlinks]]
   name = "Get in touch"
